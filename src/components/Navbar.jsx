@@ -17,7 +17,7 @@ const Navbar = () => {
     <nav className="fixed w-full z-50 bg-slate-900/90 backdrop-blur-md shadow-sm text-slate-100">
       <div className="max-w-6xl mx-auto px-4 flex items-center justify-between h-16">
         {/* Logo / Name */}
-        <h1 className="text-xl font-bold text-sky-400">Mide.dev</h1>
+        <h1 className="text-xl font-bold text-sky-400">Muhammed.dev</h1>
 
         {/* Desktop Menu */}
         <ul className="hidden md:flex space-x-6 font-medium">
