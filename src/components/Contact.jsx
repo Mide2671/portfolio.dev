@@ -42,7 +42,7 @@ const Contact = () => {
             <FaWhatsapp />
           </a>
           <a
-            href="https://github.com/yourgithub"
+            href="https://github.com/Mide2671"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-white transition"
@@ -50,7 +50,7 @@ const Contact = () => {
             <FaGithub />
           </a>
           <a
-            href="https://linkedin.com/in/yourlinkedin"
+            href="https://www.linkedin.com/in/muhammed-adebisi-565553243/"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-blue-400 transition"
