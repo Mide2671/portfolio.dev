@@ -8,8 +8,8 @@ const projects = [
     description:
       "A multi-page responsive site for an event planner with booking features.",
     tech: ["React", "Tailwind", "Framer Motion"],
-    live: "#",
-    code: "#",
+    live: "https://barazana-events.vercel.app/",
+    code: "https://github.com/Mide2671/barazanaEvents",
   },
   {
     id: 2,
@@ -17,8 +17,8 @@ const projects = [
     description:
       "A single-page portfolio for a creative artist to showcase her brand.",
     tech: ["React", "Tailwind", "Vite"],
-    live: "#",
-    code: "#",
+    live: "https://ravenshades.vercel.app/",
+    code: "https://github.com/Mide2671/raven.shades",
   },
   {
     id: 3,
@@ -26,8 +26,8 @@ const projects = [
     description:
       "A professional website for selling asphalt and road construction materials.",
     tech: ["React", "Tailwind", "Node.js"],
-    live: "#",
-    code: "#",
+    live: "https://clinton-logistics.vercel.app/",
+    code: "https://github.com/Mide2671/clinton-logistics-",
   },
   {
     id: 4,
@@ -35,8 +35,8 @@ const projects = [
     description:
       "Modern online storefront for a unisex fashion brand with clean design.",
     tech: ["React", "Tailwind", "React Router"],
-    live: "#",
-    code: "#",
+    live: "https://ibx-alpha.vercel.app/",
+    code: "https://github.com/Mide2671/ibx",
   },
   {
     id: 5,
@@ -44,8 +44,8 @@ const projects = [
     description:
       "A decentralized funding app using Solidity and MetaMask for send/withdraw.",
     tech: ["Solidity", "React", "Ether.js", "MetaMask"],
-    live: "#",
-    code: "#",
+    live: "https://fundme-ui.vercel.app/",
+    code: "https://github.com/Mide2671/FundmeUI",
   },
 ];
 
