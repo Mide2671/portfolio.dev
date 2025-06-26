@@ -70,6 +70,9 @@ const Projects = () => {
             <motion.div
               key={project.id}
               whileHover={{ scale: 1.02 }}
+              initial={{ opacity: 0, y: 100 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ duration: 0.3 }}
               className="bg-slate-800 p-6 rounded-xl shadow-md border border-slate-700"
             >
               <h3 className="text-xl font-bold text-sky-300 mb-2">
