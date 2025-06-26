@@ -35,7 +35,7 @@ const Hero = () => {
           className="mt-8 flex justify-center gap-4 flex-wrap"
         >
           <a
-            href="/Muhammed-Adebisi-CV.pdf"
+            href="/Muhammed_Adebisi_CV.docx"
             download
             className="px-6 py-2 border border-sky-400 text-sky-400 rounded-xl font-semibold hover:bg-sky-400 hover:text-slate-900 transition"
           >
